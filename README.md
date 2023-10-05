@@ -1,6 +1,6 @@
 # Optimizing images for Web
 
-## This tutorial will demonstrate how you can work with PNG and WEBP formats to optimize your website's load time. Along with this code, you will also need to read an article that describes how it works in practice and where you should use the example from the article in your index.html file
+This tutorial will demonstrate how you can work with PNG and WEBP formats to optimize your website's load time. Along with this code, you will also need to read an article that describes how it works in practice and where you should use the example from the article in your index.html file
 
 ## Installation
 
